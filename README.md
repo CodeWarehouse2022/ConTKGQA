@@ -5,6 +5,8 @@ You can find the detailed log file of our testing in the following location: `ex
 
 ## Dataset
 Please download the dataset [CronQuestions](https://github.com/apoorvumang/CronKGQA) and save it under the folder "datasets/CronQuestions"
+
+The trained model exceeds the upload limit. Please reach out to the author directly to obtain the model.
 ## Requirements
 Python version >= 3.9
 
